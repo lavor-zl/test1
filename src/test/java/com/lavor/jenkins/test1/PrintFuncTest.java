@@ -14,18 +14,18 @@ public class PrintFuncTest {
     }
     @Test
     public void print2() {
-        Assert.assertEquals(2,printFunc.print1());
+        Assert.assertEquals(2,printFunc.print2());
     }
     @Test
     public void print3() {
-        Assert.assertEquals(3,printFunc.print1());
+        Assert.assertEquals(3,printFunc.print3());
     }
     @Test
     public void print4() {
-        Assert.assertEquals(4,printFunc.print1());
+        Assert.assertEquals(4,printFunc.print4());
     }
     @Test
     public void print5() {
-        Assert.assertEquals(5,printFunc.print1());
+        Assert.assertEquals(5,printFunc.print5());
     }
 }
